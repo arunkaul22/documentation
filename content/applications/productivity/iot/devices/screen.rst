@@ -3,7 +3,7 @@ Connect a screen
 ================
 
 In Odoo, an :abbr:`IoT (Internet of Things)` Box can be connected to a screen display. After being
-connected, the screen can be used to display a :abbr:`PoS (Point of Sale)` order to a client.
+connected, the screen can be used to display an :abbr:`PoS (Point of Sale)` order to a client.
 
 .. image:: screen/screen-pos-client-display.png
    :align: center
@@ -66,8 +66,8 @@ Things)` Box homepage.
 Usage
 =====
 
-Show Point of Sales orders to customers
----------------------------------------
+Show Point of Sale orders to customers
+--------------------------------------
 
 To use the screen in the :guilabel:`Point of Sale` app, go to :menuselection:`Point of Sale -->
 Configuration --> Point of Sale`, open the desired screen, click on :guilabel:`Edit`, and enable the
